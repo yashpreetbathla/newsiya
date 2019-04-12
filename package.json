@@ -1,0 +1,19 @@
+{
+  "name": "news_try",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "handlebars": "^4.1.1",
+    "hbs": "^4.0.3",
+    "nodemon": "^1.18.10",
+    "request": "^2.88.0"
+  }
+}
